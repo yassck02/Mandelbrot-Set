@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CBTLogger",
+        "repositoryURL": "https://github.com/chinaberry-tech/CBTLogger",
+        "state": {
+          "branch": null,
+          "revision": "a674926a81a8104ec104dbde232bb3ebc9829f96",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
